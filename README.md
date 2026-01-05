@@ -33,7 +33,7 @@ https://github.com/user-attachments/assets/2abd3bd8-a617-4c15-a16d-04e8a1291c31
 ---
 
 ### 🔍 Explore the Project Assets
-* 🏎️ **Main Assembly:** Access the complete 3D assembly and individual component files (wishbones, uprights, dampers) in the [CAD folder](./).
+* 🏎️ **Main Assembly:** Access the complete 3D SolidWorks assembly here: [MAIN ASSEMBLY (New).SLDASM](./MAIN%20ASSEMBLY%20(New).SLDASM)
 * 🎬 **Video Renders:** View high-definition kinematic simulations and 360-degree rotations in the [Media folder](./).
 * 📸 **Static Gallery:** High-resolution renders showing FEA stress concentration points and final assembly are available in the [Renders folder](./).
 
