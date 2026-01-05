@@ -1,4 +1,4 @@
 # FSAE Race Suspension
 *A high-performance kinematic and simulation designed for FSAE race vehicles.*
 
-![Main Project Header](Suspension 1.JPG)
+![Main Project Header](./Suspension%201.JPG)
