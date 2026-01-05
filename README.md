@@ -7,8 +7,10 @@ Formula SAE is an international, engineering race competition where students des
 
 The image above shows the full assemby of the front suspension in an FSAE vehicle. Its subsystems include the antiroll bar (dark blue section at the bottom), wheel assembly (green and teal members), bell crank (the purple part), and the dampers. The damper used in this system is the Ohlins TTX25 50mm shock absorber. To lower the center of gravity and maintain the structural rigidity of the suspension, the wishbone (teal member) is attached to the lower control arm.
 
+
 ![Main Project Header](./Suspension%203.JPG)
 *A complete assembly for each wheel consisting of the control arms, bell crank, wishbone, and damper.*
+
 
 ![Main Project Header](./Suspension%202.JPG)
 *A single control arm in the suspension. 
