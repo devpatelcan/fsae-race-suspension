@@ -16,9 +16,10 @@ The image above shows the full assemby of the front suspension in an FSAE vehicl
 *A single control arm in the suspension.*
 
 The animation below shows the motion that a suspension system will undergo when it faces uneven terrain.
-<p align="center">
-  <video src="Suspension_Motion.mp4" width="100%" autoplay loop muted playsinline></video>
-</p>
+
+https://github.com/user-attachments/assets/2abd3bd8-a617-4c15-a16d-04e8a1291c31
+
+
 
 
 
