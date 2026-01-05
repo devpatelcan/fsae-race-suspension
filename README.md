@@ -1,2 +1,4 @@
-# fsae-race-suspension
-CAD assembly and kinematic animation of a race-grade suspension system.
+# FSAE Race Suspension
+*A high-performance kinematic and simulation designed for FSAE race vehicles.*
+
+![Main Project Header]()
